@@ -52,6 +52,9 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Clarifai blog](https://www.clarifai.com/blog)
 - [Paperspace Blog](https://blog.paperspace.com/)
 - [MosaicML Blog](https://www.mosaicml.com/blog)
+- [Made With ML](https://madewithml.com/)
+- [Fast AI](https://www.fast.ai/)
+- 
 
 
 ## Data Labelling and Curation Platforms
@@ -92,6 +95,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [The Stanford AI lab Blog](https://ai.stanford.edu/blog/)
 - [MIT News ML](https://news.mit.edu/topic/machine-learning) and [AI](https://news.mit.edu/topic/artificial-intelligence2)
 - [AutoML Group](https://www.automl.org/automl-blog/)
+- [MIT Tech Review](https://www.technologyreview.com/)
 
 
 ## Community Content
