@@ -54,7 +54,24 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [MosaicML Blog](https://www.mosaicml.com/blog)
 - [Made With ML](https://madewithml.com/)
 - [Fast AI](https://www.fast.ai/)
-- 
+
+## AI Research Papers
+
+1.[ ArXiv](https://arxiv.org/)
+
+2. [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+
+3. [Google Scholar](https://scholar.google.com/)
+
+4. [Microsoft Academic](https://academic.microsoft.com/)
+
+5. [ResearchGate](https://www.researchgate.net/)
+
+6. [ACM Digital Library](https://dl.acm.org/)
+
+7. [Semantic Scholar](https://www.semanticscholar.org/)
+
+9. AI Research Journals: Many AI-focused journals, such as the Journal of Artificial Intelligence Research (JAIR), Machine Learning (ML), and Neural Information Processing Systems (NeurIPS), publish AI research papers regularly.
 
 
 ## Data Labelling and Curation Platforms
