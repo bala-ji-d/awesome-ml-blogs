@@ -73,6 +73,31 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 
 9. AI Research Journals: Many AI-focused journals, such as the Journal of Artificial Intelligence Research (JAIR), Machine Learning (ML), and Neural Information Processing Systems (NeurIPS), publish AI research papers regularly.
 
+## AI Conferences
+AI conferences are important venues for researchers, practitioners, and industry professionals to present and exchange their latest findings and advancements in artificial intelligence. Here are some popular AI conferences along with their respective websites:
+
+1. [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
+
+2. [International Conference on Machine Learning (ICML)](https://icml.cc/)
+
+3. [Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/)(Note: The website might change each year)
+
+4. [Association for Computational Linguistics (ACL) Conference](https://www.aclweb.org/)
+
+5. [International Joint Conference on Artificial Intelligence (IJCAI)](https://www.ijcai.org/)
+
+6. [Robotics: Science and Systems (RSS) Conference](http://www.roboticsconference.org/)
+
+7. [Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2023.emnlp.org/)(Note: The website might change each year)
+
+8. [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+
+9. [International Conference on Autonomous Agents and Multiagent Systems (AAMAS)](https://aamas2023.conference.auckland.ac.nz/)(Note: The website might change each year)
+
+10. [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/)(Note: The website might change each year)
+
+Please note that the conference websites might change each year due to the rotating nature of conference organization. For the most up-to-date information about a specific conference, it's best to search for the conference name with the current year's edition in your preferred search engine.
+
 
 ## Data Labelling and Curation Platforms
 
