@@ -16,6 +16,7 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Twitter Engineering](https://blog.twitter.com/engineering/en_us/topics/insights)
 - [Amazon Science Blog](https://www.amazon.science/blog?f0=0000016e-2fb1-d205-a5ef-afb9d52c0000&f0=0000016e-2ff0-da81-a5ef-3ff057f10000&f0=0000016e-2ff1-d205-a5ef-aff9651e0000)
 - [OpenMined Blog](https://blog.openmined.org/)
+- [AI 50 Forbes List]
 
 
 ## Big Corps - Applied
@@ -122,6 +123,10 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Sander Dieleman](https://benanne.github.io/)
 - [Jeremy Jordan](https://www.jeremyjordan.me/)
 - [George Ho](https://www.georgeho.org/blog/)
+- [Tim Dettmers](https://www.timdettmers.com)
+- [wild ml ](https://dennybritz.com/)
+- [colah](http://colah.github.io/)
+- [karpathy](https://karpathy.ai/)
 
 
 ## Synthetic Data
@@ -136,6 +141,8 @@ you want more practical tutorials? In both cases, these are the site to keep an 
 - [Distill](https://distill.pub/) - Research Publications. No longer updated
 - [Kaggle Blog](https://medium.com/kaggle-blog)
 - [Brighter.ai Blog](https://brighter.ai/resources-types/blog/) - Data anonymization
+- [The Gradient](https://thegradient.pub/)
+- 
 
 
 # Contributing
