@@ -181,7 +181,106 @@ Please note that the conference websites might change each year due to the rotat
 - [Anyverse Blog](https://anyverse.ai/blog/)
 - [Datagen Blog](https://www.datagen.tech/blog/)
 
+##DEV Blogs 
+As of my last knowledge update in September 2021, there are several popular blogs that cater to developers and provide valuable insights, tutorials, and updates about programming, software development, technology trends, and more. Please note that the popularity and relevance of blogs can change over time, so it's a good idea to check their current status before diving in. Here are some blogs that were well-regarded by developers:
 
+1. [CSS-Tricks](https://css-tricks.com/): A blog focused on web development and design, covering topics related to CSS, HTML, JavaScript, and front-end technologies.
+
+2. [Smashing Magazine](https://www.smashingmagazine.com/): A comprehensive resource for web developers and designers, offering articles, tutorials, and insights on various aspects of web development.
+
+3. [A List Apart](https://alistapart.com/): A blog that explores the design, development, and meaning of web content, with a focus on user experience, accessibility, and best practices.
+
+4. [Scott Hanselman's Blog](https://www.hanselman.com/): Scott Hanselman, a well-known developer and advocate, shares insights, tips, and tools related to .NET, Azure, web development, and more.
+
+5. [Coding Horror](https://blog.codinghorror.com/): Jeff Atwood's blog covers a wide range of programming topics, discussions on software development practices, and thoughts on technology.
+
+6. [Joel on Software](https://www.joelonsoftware.com/): Joel Spolsky's blog offers essays and articles about software development, project management, and industry insights.
+
+7. [David Walsh Blog](https://davidwalsh.name/): David Walsh writes about front-end development, JavaScript, CSS, and other web-related technologies.
+
+8. [The GitHub Blog](https://github.blog/): GitHub's official blog covers updates, features, and best practices related to version control, collaboration, and open-source software.
+
+9. [Hacker News](https://news.ycombinator.com/): While not a traditional blog, Hacker News is a popular forum for tech discussions and news. It's a great place to discover interesting articles and discussions relevant to developers.
+
+10. [DEV Community](https://dev.to/): A community-driven platform where developers share articles, tutorials, and insights on various programming and tech-related topics.
+
+11. [Mozilla Hacks](https://hacks.mozilla.org/): Mozilla's blog focusing on open web technologies, web standards, and developer tools.
+
+12. [Paul Graham's Essays](http://www.paulgraham.com/articles.html): Although not strictly a blog, Paul Graham's essays cover a wide range of topics, including startups, programming languages, and technology trends.
+
+Remember that the development landscape is always evolving, so it's a good idea to explore and discover new resources regularly. Additionally, you can find valuable content on platforms like Medium, YouTube, and podcasts, which offer a variety of perspectives and insights from developers and industry experts.
+
+As of my last knowledge update in September 2021, here are some popular blogs that cater to Python and Software Engineering (SE) developers. Keep in mind that the popularity of blogs can change over time, and new ones may have emerged since then. It's also a good idea to explore multiple sources to get a well-rounded perspective on the topics you're interested in. Here's a list to get you started:
+
+**Python Blogs:**
+
+1. **Real Python**: Offers tutorials, articles, and resources on various aspects of Python programming, catering to beginners and experienced developers alike.
+   Website: https://realpython.com/
+
+2. **Python Insider Blog**: The official Python blog, maintained by the Python Software Foundation. It provides updates on the latest developments in the Python programming language.
+   Website: https://blog.python.org/
+
+3. **Planet Python**: Aggregates blog posts from various Python bloggers, providing a diverse range of topics and perspectives.
+   Website: https://planetpython.org/
+
+4. **PyImageSearch**: Focuses on computer vision and image processing using Python and popular libraries like OpenCV.
+   Website: https://www.pyimagesearch.com/
+
+5. **The Mouse Vs. The Python**: A blog featuring tutorials, tips, and tricks for Python development, covering a wide range of topics.
+   Website: https://www.blog.pythonlibrary.org/
+
+**Software Engineering (SE) Blogs:**
+
+1. **Joel on Software**: Written by Joel Spolsky, this blog covers software development, management, and business topics.
+   Website: https://www.joelonsoftware.com/
+
+2. **Martin Fowler's Bliki**: Martin Fowler is a renowned software engineer and author. His blog (bliki) covers software design, architecture, and development practices.
+   Website: https://martinfowler.com/
+
+3. **The Pragmatic Engineer**: Offers insights into software engineering practices, career development, and related topics.
+   Website: https://blog.pragmaticengineer.com/
+
+4. **Coding Horror**: Jeff Atwood's blog covers a wide range of software development and technology-related topics.
+   Website: https://blog.codinghorror.com/
+
+5. **Signal v. Noise**: The blog of Basecamp, covering software development, design, and business-related issues.
+   Website: https://signalvnoise.com/
+
+Remember that the field of programming and software engineering is constantly evolving, so it's a good idea to explore current resources to find the most up-to-date and relevant information. You can also consider subscribing to relevant newsletters, forums, and social media accounts to stay connected with the latest developments in Python and software engineering.
+
+Certainly! There are several centralized apps and websites that aggregate news and blogs for developers from various reputable sources. These platforms can help you stay updated on the latest trends, technologies, and insights in the development world. Here are some of the best options:
+
+1. **Dev.to**: A community-driven platform where developers share articles, tutorials, and discussions on a wide range of programming and tech-related topics.
+
+2. **Hacker News**: A social news website that covers a broad spectrum of technology and programming-related content. It's a great place to discover interesting articles and discussions.
+
+3. **Reddit - r/programming**: The programming subreddit on Reddit features a diverse range of content, including news, articles, and discussions related to programming and software development.
+
+4. **Medium**: A popular platform where developers and tech enthusiasts publish articles and tutorials on various programming languages, frameworks, and technologies.
+
+5. **Slashdot**: A technology news website that covers topics such as software, hardware, and open-source projects, often with a focus on developer-centric content.
+
+6. **InfoQ**: An online community and resource that provides news, articles, videos, and presentations on various software development topics, including programming languages, methodologies, and tools.
+
+7. **DZone**: Offers articles, tutorials, and resources on software development, DevOps, and more, contributed by industry professionals.
+
+8. **Stack Overflow Blog**: The official blog of Stack Overflow, a widely-used Q&A platform for developers, covering programming trends, best practices, and developer stories.
+
+9. **GitHub Blog**: Provides updates, features, and best practices related to version control, collaboration, and open-source software.
+
+10. **Smashing Magazine**: A comprehensive resource for web developers and designers, offering articles, tutorials, and insights on various aspects of web development.
+
+11. **CSS-Tricks**: Focuses on web development and design, covering topics related to CSS, HTML, JavaScript, and front-end technologies.
+
+12. **A List Apart**: Explores the design, development, and meaning of web content, with a focus on user experience, accessibility, and best practices.
+
+13. **FreeCodeCamp News**: Part of the FreeCodeCamp platform, it features articles and news related to programming, web development, and technology.
+
+14. **TechCrunch**: While not exclusively developer-focused, TechCrunch covers tech industry news, startups, and trends that can be relevant to developers.
+
+15. **Towards Data Science**: If you're interested in data science and machine learning, this Medium publication offers articles and tutorials on these topics.
+
+Please note that the popularity and relevance of these platforms can change over time, so it's a good idea to explore and find the ones that best suit your preferences and needs. Additionally, consider subscribing to newsletters and RSS feeds from your favorite sources to receive updates directly in your inbox or feed reader.
 ## Extra
 
 - [Distill](https://distill.pub/) - Research Publications. No longer updated
